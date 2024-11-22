@@ -1,0 +1,6 @@
+{
+    "date": "2024-04-15",
+    "my_photos": ["photo1", "photo2"],
+    "friend1_photos": ["photo2", "photo3"],
+    "friend2_photos": ["photo4", "photo5"]
+}
